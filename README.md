@@ -16,7 +16,7 @@ An obscure forum that had only a dozen users before it was shut down.
 > Why does it look like it's written by a 13 year old?
 
 Because it *was* written by a 13 year old. At least the latter part.
-I had no idea how the code actually works I just needed something that would send a form without refreshing the page so I copied the code from a website (credits to: Pukos)
+I had no idea how the code actually works I just needed something that would send a form without refreshing the page so I copied the code from a website (credits to Pukos)
 This was almost a decade ago.
 
 > What was your motivation?

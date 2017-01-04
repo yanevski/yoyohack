@@ -1,3 +1,4 @@
+#Yoyohack
 > What is this?
 
 A badly written spambot.
@@ -30,7 +31,7 @@ That's why it was shut down.
 
 > Did they ban you?
 
-Yes but I was granted amnesty. (spoiler: so was Patrick)
+Yes but I was granted amnesty. (spoiler: Patrick was too)
 
 > Have you participated in any recent attacks on YYG?
 

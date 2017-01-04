@@ -11,7 +11,7 @@ Then I figured I could make a spambot if I could send asynchronous AJAX requests
 > What is YYGF?
 
 An obscure forum that had only a dozen users before it was shut down.
-[http://one.denizenscript.com/yygf/classic/index.html](Archive)
+[Archive](http://one.denizenscript.com/yygf/classic/index.html)
 
 > Why does it look like it's written by a 13 year old?
 
@@ -26,8 +26,7 @@ Revenge + a lot of immaturity.
 > Why was it shut down?
 
 It was shut down because of a hacking attack. Not mine though.
-A guy named Patrick was much more sinister in this and he hacked the forum's user database.
-That's why it was shut down.
+A guy named Patrick was much more sinister in this and he hacked the forum's user database and that's why it was shut down.
 
 > Did they ban you?
 
